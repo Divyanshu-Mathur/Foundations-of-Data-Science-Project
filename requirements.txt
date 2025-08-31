@@ -4,5 +4,5 @@ pandas
 matplot
 seaborn
 scikit-learn
-xgboost
 streamlit
+xgboost
