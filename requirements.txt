@@ -3,8 +3,5 @@ numpy
 pandas
 seaborn
 scikit-learn
-<<<<<<< HEAD:requirements.txt
 streamlit
-=======
->>>>>>> aafc45cafd83fda7ea68c02e2a468f0f5e25c5cc:requirements..txt
 xgboost
